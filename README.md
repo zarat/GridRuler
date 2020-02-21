@@ -1,4 +1,6 @@
 # GridRuler
 
 ## Todo
- - Export
+
+* File export !!!
+* Scripting support
