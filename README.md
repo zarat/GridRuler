@@ -1,6 +1,6 @@
 # GridRuler
 
-Process csv files using semantic rules and scripting
+Advanced CSV file processor with custom rule evaluation and scripting support using the [ScriptStack API](https://github.com/zarat/ScriptStack)
 
 This is an early alpha demo in active development!
 
