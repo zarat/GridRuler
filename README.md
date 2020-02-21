@@ -1,6 +1,6 @@
 # GridRuler
 
-Advanced CSV file processor with custom rule evaluation. This is an early alpha demo in active development!
+CSV file processor with custom rule evaluation. This is an early alpha demo in active development!
 
 ### New
 
