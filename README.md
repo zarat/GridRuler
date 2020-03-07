@@ -1,5 +1,5 @@
 # GridRuler
 
-CSV file processor with custom rule evaluation and cripting support using [ScriptStack](https://github.com/zarat/ScriptStack). Extend it with your own functions, working with active directory or even cloud data.. A lot of stuff is in planning.
+CSV file processor with custom rule evaluation and cripting support using [ScriptStack](https://github.com/zarat/ScriptStack).
 
 ![image](gridruler.gif)
